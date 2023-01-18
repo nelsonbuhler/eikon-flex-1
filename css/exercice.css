@@ -29,7 +29,10 @@
   flex-wrap: wrap;
   }
 
-/* 7. exercice-wrap-3 */
-
+  .exercice-all-in .container {
+    display: flex;
+    flex-direction: row-reverse;
+    flex-wrap: wrap-reverse;
+   }
 /* 8. all-in */
 
