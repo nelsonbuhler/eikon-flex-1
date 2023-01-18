@@ -13,9 +13,15 @@
   flex-direction: column-reverse;
  }
 
-/* 4. exercice-direction-2 */
+ .exercice-direction-3 .container { 
+  display: flex;
+  flex-direction: row-reverse;
+ }
 
-/* 5. exercice-wrap-1 */
+ .exercice-wrap-1 .container {
+  display: flex;
+  flex-direction: row;
+ }
 
 /* 6. exercice-wrap-2 */
 
