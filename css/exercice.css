@@ -1,11 +1,12 @@
-/* 1. exercice-flex */
+
 .exercice-flex .container {
   display: flex;
 }
 
-.exercice-direction-1 .container { 
+.exercice-flex .container { 
   display: flex;
   flex-direction: column;
+  background: red;
  }
 
  .exercice-direction-2 .container { 
